@@ -1,12 +1,12 @@
-title: MMDM
-subtitle: Learn by doing
+title: nootorious
+subtitle:
 url: ""# the base url and protocol e.g https://blog.masteringmdm.com
 baseurl: "" # subpath of your site, e.g /blog
 
 # Navigation
 urls:
     - text: Home
-      url: nootorious.com
+      url: /blog
     - text: Blog
       url: /blog
     - text: About
