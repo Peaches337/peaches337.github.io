@@ -31,5 +31,5 @@ When in either the pinned or all libraries sections of the navigational sidebar,
 ## Reordering the Sidebar
 The sidebar can be reordered, again by hovering over a library and clicking on the < ... > option. Then by clicking the <Reorder> option. Libraries can then be moved by holding left mouse over an item and moving it into position. Once satisfied the reorder menu can be exited by clicking the <x> icon. 
 
-![test](/assets/img/posts/2021-10-19-pinning-libraries-in-plex/plex-reorder.png
+![test](/assets/img/posts/2021-10-19-pinning-libraries-in-plex/plex-reorder.png)
 
