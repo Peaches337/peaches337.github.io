@@ -1,4 +1,4 @@
-title: nootorious
+title: NOOTORIOUS
 subtitle:
 url: ""# the base url and protocol e.g https://blog.masteringmdm.com
 baseurl: "" # subpath of your site, e.g /blog
@@ -6,7 +6,7 @@ baseurl: "" # subpath of your site, e.g /blog
 # Navigation
 urls:
     - text: Home
-      url: /blog
+      url: /
     - text: Blog
       url: /blog
     - text: About
