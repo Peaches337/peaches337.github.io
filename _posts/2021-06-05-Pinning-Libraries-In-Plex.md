@@ -7,15 +7,23 @@ thumbnail: /assets/img/posts/plex.png
 image: /assets/img/posts/plex.png
 ---
 
-Plex's navigation sidebar is optimised for multiple the sharing of multiple servers, this sometime leads to confusion. This can create an overwhelming or sometimes lacklustre navigation experience.
+Plex's navigation sidebar is optimised for the sharing of multiple servers, which sometime leads to confusion. This can create an overwhelming or sometimes lacklustre navigation experience.
 
 Follow the tutorial below, and gain an understanding of how to customise the navigational sidebar.
 
 Table of Contents	
-- Pinning Libraries to Sidebar
+- Editing the Sidebar
 
-## Pinning Libraries to Sidebar
-Log in the Microsoft Endpoint Manager admin center.
-1. Go to Home > Devices > Windows > Configuration Profiles > Create Profile
+Certain users, who have been shared more than one server, will be prompted if they have a prefered one. This will determine the server that will intially be pinned to the sidebar.
 
+## Editing the Sidebar
 
+Pinning/Unpinning Sidebar Items
+By clicking <MORE> at the bottom of the sidebar, you'll be allowed to add missing libraries. 
+  
+When in either the pinned or all libraries sections of the navigational sidebar, hovering over a library will display <...> or a pin. Clicking on this prompt will display an option to pin or unpin a library.
+  
+## Reordering the Sidebar
+The sidebar can be reordered, again by hovering over a library and clicking on the <...> option. Then by clicking the <Reorder> option. Libraries can then be moved by holding left mouse over an item and moving it into position. Once satisfied the reorder menu can be exited by clicking the <x> icon. 
+
+(/assets/img/2021-06-22-reset-local-account-password-in-azure-ad/Azure-AD-Password-Writeback-Check-Box.png)
