@@ -1,6 +1,7 @@
 ---
 layout: post
 author: maxp
+summary: Confused or unsure how to work the Plex Navigation Sidebar, follow this guide
 categories: plex
 date: 2021-10-19
 thumbnail: /assets/img/posts/plex.png
