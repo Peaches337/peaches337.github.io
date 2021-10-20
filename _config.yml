@@ -1,6 +1,6 @@
 title: NOOTORIOUS
 subtitle: 
-url: "" # the base url and protocol e.g https://blog.masteringmdm.com
+url: "https://nootorious.com" # the base url and protocol e.g https://blog.masteringmdm.com
 baseurl: "" # subpath of your site, e.g /blog
 
 # Navigation
